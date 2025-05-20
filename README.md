@@ -18,7 +18,7 @@ Welcome to my GitHub! I'm a passionate DevOps Engineer with expertise in buildin
 
 ---
 
-!(https://img.freepik.com/premium-vector/google-cloud-logo-vector-cloud-platform-with-silver-background-vector_981536-439.jpg?w=200)
+![](https://img.freepik.com/premium-vector/google-cloud-logo-vector-cloud-platform-with-silver-background-vector_981536-439.jpg?w=200)
 
 ## 💼 What I Do
 
@@ -65,7 +65,7 @@ Here are a few repositories that showcase my work:
 ## 📫 Let's Connect
 
 - 📧 [talukdark555@gmail.com](mailto:talukdark555@gmail.com)
-- 💼 [LinkedIn](www.linkedin.com/in/kaustav-moni-talukdar-655b88122)
+- 💼 [LinkedIn](https://www.linkedin.com/in/kaustav-moni-talukdar-655b88122)
 
 ---
 
