@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Kaustav Talukdar
 
 🚀 **DevOps Engineer | Cloud Infrastructure | Automation & Monitoring Specialist**
 
@@ -18,11 +18,7 @@ Welcome to my GitHub! I'm a passionate DevOps Engineer with expertise in buildin
 
 ---
 
-## 📊 GCP Infrastructure Demo
-
-Here’s a quick visual of GCP infrastructure provisioning using Terraform:
-
-![GCP Infrastructure Demo](https://img.freepik.com/premium-vector/google-cloud-logo-vector-cloud-platform-with-silver-background-vector_981536-439.jpg?w=200)
+!(https://img.freepik.com/premium-vector/google-cloud-logo-vector-cloud-platform-with-silver-background-vector_981536-439.jpg?w=200)
 
 ## 💼 What I Do
 
@@ -48,6 +44,24 @@ Here are a few repositories that showcase my work:
 
 ---
 
+## 💬 Quotes I Live By
+
+> "Just because something works, doesn't mean it cannot be improved."  
+> — **Shuri, Black Panther (2018)**  
+
+> ⚡ "If you want something done right, you really have to do it yourself."  
+> — **Reverse-Flash**
+
+> 🛠️ "Sometimes you gotta run before you can walk."  
+> — **Tony Stark, Iron Man (2008)**
+
+> "I can fix anything... except a broken heart."  
+> — **Cisco Ramon**
+
+> "It’s not about being the smartest guy in the room. It’s about doing the right thing."  
+> — **Cisco Ramon**  
+---
+
 ## 📫 Let's Connect
 
 - 📧 [talukdark555@gmail.com](mailto:talukdark555@gmail.com)
@@ -56,4 +70,6 @@ Here are a few repositories that showcase my work:
 ---
 
 Thanks for visiting! Feel free to check out my projects or reach out if you're interested in working together or hiring a proactive DevOps engineer. 🚀
+
+---
 
